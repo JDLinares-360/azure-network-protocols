@@ -33,10 +33,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1728" height="1080" alt="Screenshot 2026-01-27 at 5 20 31 AM" src="https://github.com/user-attachments/assets/1e0ab19a-8602-45c1-9271-7db141a440f1" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Use Remote Desktop to connect to Virtual Machine (or client computer)
 </p>
 <br />
 
