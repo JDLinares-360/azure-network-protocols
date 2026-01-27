@@ -60,9 +60,11 @@ Within Wireshark, via searchbar, filter for ICMP traffic only
 <p>
 <img width="1728" height="1080" alt="Screenshot 2026-01-27 at 5 52 14 AM" src="https://github.com/user-attachments/assets/bc6cd2ab-f436-424a-854e-7209f19fd872" />
 <img width="1728" height="1080" alt="Screenshot 2026-01-27 at 5 54 44 AM" src="https://github.com/user-attachments/assets/5a8caa5f-19e1-4d56-ad7e-b46f3dfba89e" />
+<img width="1728" height="1080" alt="Screenshot 2026-01-27 at 5 59 57 AM" src="https://github.com/user-attachments/assets/d00e47c6-66f2-425a-aff4-f70616897f2c" />
 </p>
+
 <p>
-Retrieve the private IP address of the Ubuntu VM (linux-vm) and attempt to ping it from within the Windows 10 VM by utilizing PowerShell > ping command + Private IP address.
+Retrieve the private IP address of the Ubuntu VM (linux-vm) and attempt to ping it from within the Windows 10 VM by utilizing PowerShell > ping command + Private IP address. Observe ping requests and replies within WireShark.
 </p>
 <br />
 
