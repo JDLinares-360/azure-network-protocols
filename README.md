@@ -45,7 +45,7 @@ Use Remote Desktop to connect to Virtual Machine (or client computer) by inputin
 <img width="1728" height="1080" alt="Screenshot 2026-01-27 at 5 45 08 AM" src="https://github.com/user-attachments/assets/eecbd593-2637-4e8a-9ada-2f3f0b5fa4a4" />
 </p>
 <p>
-Open Wireshark and start packet capture by accessing ethernet connection (interface showing network traffic).
+From within remote connection, open Wireshark and start packet capture by accessing ethernet connection (interface showing network traffic).
 </p>
 <br />
 
