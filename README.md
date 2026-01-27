@@ -45,23 +45,24 @@ Use Remote Desktop to connect to Virtual Machine (or client computer) by inputin
 <img width="1728" height="1080" alt="Screenshot 2026-01-27 at 5 45 08 AM" src="https://github.com/user-attachments/assets/eecbd593-2637-4e8a-9ada-2f3f0b5fa4a4" />
 </p>
 <p>
-Open Wireshark and start packet capture by accessing ethernet connection (interface showing network traffic)
+Open Wireshark and start packet capture by accessing ethernet connection (interface showing network traffic).
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1728" height="1080" alt="Screenshot 2026-01-27 at 5 49 28 AM" src="https://github.com/user-attachments/assets/2e81d3bc-9153-4506-a787-fbcd0b94b2f9" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Within Wireshark, via searchbar, filter for ICMP traffic only
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1728" height="1080" alt="Screenshot 2026-01-27 at 5 52 14 AM" src="https://github.com/user-attachments/assets/bc6cd2ab-f436-424a-854e-7209f19fd872" />
+<img width="1728" height="1080" alt="Screenshot 2026-01-27 at 5 54 44 AM" src="https://github.com/user-attachments/assets/5a8caa5f-19e1-4d56-ad7e-b46f3dfba89e" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Retrieve the private IP address of the Ubuntu VM (linux-vm) and attempt to ping it from within the Windows 10 VM by utilizing PowerShell > ping command + Private IP address.
 </p>
 <br />
 
