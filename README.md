@@ -41,10 +41,10 @@ Use Remote Desktop to connect to Virtual Machine (or client computer)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1728" height="1080" alt="Screenshot 2026-01-27 at 5 22 57 AM" src="https://github.com/user-attachments/assets/b8811ca6-1046-4312-bd3a-9c2ef7fe49d2" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open Wireshark and start packet capture by accessing ethernet connection (interface showing network traffic)
 </p>
 <br />
 
