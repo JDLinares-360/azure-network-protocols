@@ -36,7 +36,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img width="1728" height="1080" alt="Screenshot 2026-01-27 at 5 20 31 AM" src="https://github.com/user-attachments/assets/1e0ab19a-8602-45c1-9271-7db141a440f1" />
 </p>
 <p>
-Use Remote Desktop to connect to Virtual Machine (or client computer) by inputing target computer's IP Address and credentials.
+Step 1: Use Remote Desktop to connect to Virtual Machine (or client computer) by inputing target computer's IP Address and credentials.
 </p>
 <br />
 
@@ -45,7 +45,7 @@ Use Remote Desktop to connect to Virtual Machine (or client computer) by inputin
 <img width="1728" height="1080" alt="Screenshot 2026-01-27 at 5 45 08 AM" src="https://github.com/user-attachments/assets/eecbd593-2637-4e8a-9ada-2f3f0b5fa4a4" />
 </p>
 <p>
-From within remote connection, open Wireshark and start packet capture by accessing ethernet connection (interface showing network traffic).
+Step 2: From within remote connection, open Wireshark and start packet capture by accessing ethernet connection (interface showing network traffic).
 </p>
 <br />
 
@@ -53,7 +53,7 @@ From within remote connection, open Wireshark and start packet capture by access
 <img width="1728" height="1080" alt="Screenshot 2026-01-27 at 5 49 28 AM" src="https://github.com/user-attachments/assets/2e81d3bc-9153-4506-a787-fbcd0b94b2f9" />
 </p>
 <p>
-Within Wireshark, via searchbar, filter for ICMP traffic only
+Step 3: Within Wireshark, via searchbar, filter for ICMP traffic only
 </p>
 <br />
 
@@ -64,7 +64,7 @@ Within Wireshark, via searchbar, filter for ICMP traffic only
 </p>
 
 <p>
-Retrieve the private IP address of the Ubuntu VM (linux-vm) and attempt to ping it from within the Windows 10 VM by utilizing PowerShell > ping command + Private IP address. Observe ping requests and replies within WireShark.
+Step 4: Retrieve the private IP address of the Ubuntu VM (linux-vm) and attempt to ping it from within the Windows 10 VM by utilizing PowerShell > ping command + Private IP address. Observe ping requests and replies within WireShark.
 </p>
 <br />
 
