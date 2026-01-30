@@ -72,11 +72,26 @@ NOTE: Pinging an IP address checks whether a device can be reached on a network 
 
 <h2>Configuring a Firewall [Network Security Group]</h2>
 
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 5 52 19 AM" src="https://github.com/user-attachments/assets/c52e45d3-748e-4ec2-b9f6-f50f0d7f0d65" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Initiate a perpetual/non-stop ping from your Windows 10 VM to your Ubuntu VM via PowerShell and the ping command + private IP Address + -t
+</p>
+<br />
+
+<p>
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 5 52 19 AM" src="https://github.com/user-attachments/assets/c52e45d3-748e-4ec2-b9f6-f50f0d7f0d65" />
+</p>
+<p>
+Navigate to linux-vm's NSG/Firewall and disable incoming (inbound) ICMP traffic. Azure Portal > VM > Network Settings > Rules > Add inbound security rule
+</p>
+<br />
+
+<p>
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 5 52 19 AM" src="https://github.com/user-attachments/assets/c52e45d3-748e-4ec2-b9f6-f50f0d7f0d65" />
+</p>
+<p>
+....
 </p>
 <br />
