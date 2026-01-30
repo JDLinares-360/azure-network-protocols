@@ -58,9 +58,9 @@ Step 3: Within Wireshark, via searchbar, filter for ICMP traffic only
 <br />
 
 <p>
-<img width="1728" height="1080" alt="Screenshot 2026-01-27 at 5 52 14 AM" src="https://github.com/user-attachments/assets/bc6cd2ab-f436-424a-854e-7209f19fd872" />
-<img width="1728" height="1080" alt="Screenshot 2026-01-27 at 5 54 44 AM" src="https://github.com/user-attachments/assets/5a8caa5f-19e1-4d56-ad7e-b46f3dfba89e" />
-<img width="1728" height="1080" alt="Screenshot 2026-01-27 at 5 59 57 AM" src="https://github.com/user-attachments/assets/d00e47c6-66f2-425a-aff4-f70616897f2c" />
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 5 35 27 AM" src="https://github.com/user-attachments/assets/0d57499c-6008-41c2-a33f-3083b5f605dc" />
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 5 36 52 AM" src="https://github.com/user-attachments/assets/81f4fd2e-3ac4-4644-a60a-dec6e8ab5b16" />
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 5 37 37 AM" src="https://github.com/user-attachments/assets/500c2ce2-6fee-4d5d-85be-c5777ab4a6d5" />
 </p>
 
 <p>
