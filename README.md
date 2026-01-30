@@ -114,6 +114,8 @@ Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command
 </p>
 <br />
 
+<h3>(Observe SSH Traffic)</h3>
+
 <p>
 <img width="1728" height="1080" alt="Screenshot 2026-01-30 at 6 19 57 AM" src="https://github.com/user-attachments/assets/d50bb074-22fc-4dd2-9267-6392d6a3000d" />
 </p>
