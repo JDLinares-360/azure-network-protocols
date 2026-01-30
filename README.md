@@ -90,7 +90,7 @@ Navigate to linux-vm's NSG/Firewall and disable incoming (inbound) ICMP traffic.
 <br />
 
 <p>
-<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 5 52 19 AM" src="https://github.com/user-attachments/assets/c52e45d3-748e-4ec2-b9f6-f50f0d7f0d65" />
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 6 13 03 AM" src="https://github.com/user-attachments/assets/5e4b49e8-cd88-4e7f-b920-583bab0034d7" />
 </p>
 <p>
 Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity. Request will "time out" due to the new inbound security rule/firewall blocking them.
