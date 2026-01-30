@@ -136,6 +136,34 @@ From your Windows VM/PowerShell, “SSH into” your Ubuntu/Linux Virtual Machin
 <img width="1728" height="1080" alt="Screenshot 2026-01-30 at 10 50 06 AM" src="https://github.com/user-attachments/assets/431b3509-814b-4005-b5d9-b3e3df692f45" />
 </p>
 <p>
-Type commands (hostname, uname -a, )and observe traffic into the linux SSH connection and observe SSH traffic spam in WireShark, then exit the SSH connection by typing ‘exit’ and pressing [Enter]
+Type commands (hostname, uname -a, )and observe traffic into the linux SSH connection and observe SSH traffic spam in WireShark, exit the SSH connection by typing ‘exit’ and pressing [Enter]
 </p>
 <br />
+
+<h3>(Observe DHCP Traffic)</h3>
+
+<p>
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 12 43 29 PM" src="https://github.com/user-attachments/assets/6463ccda-ab4f-41d3-9228-dd1419f1423e" />
+</p>
+<p>
+Back in Wireshark, filter for DHCP traffic only, from your Windows 10 VM, attempt to issue your VM a new IP address from the command line. Open PowerShell as admin and run: ipconfig /renew, Observe the DHCP traffic appearing in WireShark
+
+</p>
+<br />
+
+<p>
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 10 57 48 AM" src="https://github.com/user-attachments/assets/01b28e76-71e5-4e42-879c-2f836caf6c9b" />
+</p>
+<p>
+...abc 
+</p>
+<br />
+
+<p>
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 10 50 06 AM" src="https://github.com/user-attachments/assets/431b3509-814b-4005-b5d9-b3e3df692f45" />
+</p>
+<p>
+....abc
+</p>
+<br />
+
