@@ -125,7 +125,7 @@ Log back into the windows-vm, back in Wireshark, start a packet capture, filter 
 <br />
 
 <p>
-<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 10 50 06 AM" src="https://github.com/user-attachments/assets/431b3509-814b-4005-b5d9-b3e3df692f45" />
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 10 57 48 AM" src="https://github.com/user-attachments/assets/01b28e76-71e5-4e42-879c-2f836caf6c9b" />
 </p>
 <p>
 From your Windows VM/PowerShell, “SSH into” your Ubuntu/Linux Virtual Machine by opening PowerShell, and typing: ssh labuser@<private IP address>, then entering Password
@@ -136,6 +136,6 @@ From your Windows VM/PowerShell, “SSH into” your Ubuntu/Linux Virtual Machin
 <img width="1728" height="1080" alt="Screenshot 2026-01-30 at 10 50 06 AM" src="https://github.com/user-attachments/assets/431b3509-814b-4005-b5d9-b3e3df692f45" />
 </p>
 <p>
-From your Windows VM/PowerShell, “SSH into” your Ubuntu/Linux Virtual Machine by opening PowerShell, and typing: ssh labuser@<private IP address>, then entering Password
+...abc
 </p>
 <br />
