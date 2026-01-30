@@ -117,9 +117,17 @@ Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command
 <h3>(Observe SSH Traffic)</h3>
 
 <p>
-<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 6 19 57 AM" src="https://github.com/user-attachments/assets/d50bb074-22fc-4dd2-9267-6392d6a3000d" />
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 10 32 26 AM" src="https://github.com/user-attachments/assets/ed787d3f-e801-4ef3-b7c6-1759c27de054" />
 </p>
 <p>
-....abc
+Log back into the windows-vm, back in Wireshark, start a packet capture, filter for SSH traffic only
+</p>
+<br />
+
+<p>
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 10 32 26 AM" src="https://github.com/user-attachments/assets/ed787d3f-e801-4ef3-b7c6-1759c27de054" />
+</p>
+<p>
+From your Windows 10 VM, “SSH into” your Ubuntu Virtual Machine (via its private IP address)
 </p>
 <br />
