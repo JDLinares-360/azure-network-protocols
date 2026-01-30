@@ -114,7 +114,7 @@ Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command
 </p>
 <br />
 
-<h3>(Observe SSH Traffic)</h3>
+<h3>Observe SSH Traffic</h3>
 
 <p>
 <img width="1728" height="1080" alt="Screenshot 2026-01-30 at 10 32 26 AM" src="https://github.com/user-attachments/assets/ed787d3f-e801-4ef3-b7c6-1759c27de054" />
@@ -140,7 +140,7 @@ Type commands (hostname, uname -a, )and observe traffic into the linux SSH conne
 </p>
 <br />
 
-<h3>(Observe DHCP Traffic)</h3>
+<h3>Observe DHCP Traffic</h3>
 
 <p>
 <img width="1728" height="1080" alt="Screenshot 2026-01-30 at 12 43 29 PM" src="https://github.com/user-attachments/assets/6463ccda-ab4f-41d3-9228-dd1419f1423e" />
@@ -152,22 +152,24 @@ Back in Wireshark, filter for DHCP traffic only, from your Windows 10 VM, attemp
 </p>
 <br />
 
-<h3>Observe DNS Traffic)</h3>
+<h3>Observe DNS Traffic</h3>
 
 <p>
 <img width="1728" height="1080" alt="Screenshot 2026-01-30 at 1 58 35 PM" src="https://github.com/user-attachments/assets/6468feda-14f1-47c7-b50c-fa235d3e5c71" />
 <img width="1728" height="1080" alt="Screenshot 2026-01-30 at 2 00 07 PM" src="https://github.com/user-attachments/assets/62722fb6-c36b-4bac-85e7-bb5235b55dde" />
 </p>
 <p>
-Back in Wireshark, filter for DNS traffic only, from your Windows VM within a command line, use nslookup to see what google.com and disney.com’s IP addresses are
+Back in Wireshark, filter for DNS traffic only, from your Windows VM within a command line, use nslookup to see what google.com and disney.com’s IP addresses are, observe the DNS traffic being show in WireShark
 </p>
 <br />
 
+<h3>Observe RDP Traffic</h3>
+
 <p>
-<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 10 50 06 AM" src="https://github.com/user-attachments/assets/431b3509-814b-4005-b5d9-b3e3df692f45" />
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 2 12 38 PM" src="https://github.com/user-attachments/assets/fd254ce3-2e26-46ee-a09d-366b78183df0" />
 </p>
 <p>
-....abc
+Back in Wireshark, filter for RDP traffic only (tcp.port == 3389), observe the immediate non-stop traffic being transmitted
+
 </p>
 <br />
-
