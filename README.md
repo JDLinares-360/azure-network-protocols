@@ -136,6 +136,6 @@ From your Windows VM/PowerShell, “SSH into” your Ubuntu/Linux Virtual Machin
 <img width="1728" height="1080" alt="Screenshot 2026-01-30 at 10 50 06 AM" src="https://github.com/user-attachments/assets/431b3509-814b-4005-b5d9-b3e3df692f45" />
 </p>
 <p>
-...abc
+Type commands (hostname, uname -a, )and observe traffic into the linux SSH connection and observe SSH traffic spam in WireShark, then exit the SSH connection by typing ‘exit’ and pressing [Enter]
 </p>
 <br />
