@@ -70,6 +70,9 @@ NOTE: Pinging an IP address checks whether a device can be reached on a network 
 </p>
 <br />
 
+<h2>Configuring a Firewall [Network Security Group]</h2>
+
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
