@@ -81,7 +81,7 @@ Initiate a perpetual/non-stop ping from your Windows 10 VM to your Ubuntu VM via
 <br />
 
 <p>
-<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 5 52 19 AM" src="https://github.com/user-attachments/assets/c52e45d3-748e-4ec2-b9f6-f50f0d7f0d65" />
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 6 03 43 AM" src="https://github.com/user-attachments/assets/be34e29c-939f-47c3-9a37-bb238de8e277" />
 </p>
 <p>
 Navigate to linux-vm's NSG/Firewall and disable incoming (inbound) ICMP traffic. Azure Portal > VM > Network Settings > Rules > Add inbound security rule
