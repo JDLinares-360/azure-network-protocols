@@ -144,6 +144,7 @@ Type commands (hostname, uname -a, )and observe traffic into the linux SSH conne
 
 <p>
 <img width="1728" height="1080" alt="Screenshot 2026-01-30 at 12 43 29 PM" src="https://github.com/user-attachments/assets/6463ccda-ab4f-41d3-9228-dd1419f1423e" />
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 1 50 54 PM" src="https://github.com/user-attachments/assets/eb106d64-391b-4699-9376-8ed2fc1e9a5a" />
 </p>
 <p>
 Back in Wireshark, filter for DHCP traffic only, from your Windows 10 VM, attempt to issue your VM a new IP address from the command line. Open PowerShell as admin and run: ipconfig /renew, Observe the DHCP traffic appearing in WireShark
@@ -151,11 +152,14 @@ Back in Wireshark, filter for DHCP traffic only, from your Windows 10 VM, attemp
 </p>
 <br />
 
+<h3>Observe DNS Traffic)</h3>
+
 <p>
-<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 10 57 48 AM" src="https://github.com/user-attachments/assets/01b28e76-71e5-4e42-879c-2f836caf6c9b" />
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 1 58 35 PM" src="https://github.com/user-attachments/assets/6468feda-14f1-47c7-b50c-fa235d3e5c71" />
+<img width="1728" height="1080" alt="Screenshot 2026-01-30 at 2 00 07 PM" src="https://github.com/user-attachments/assets/62722fb6-c36b-4bac-85e7-bb5235b55dde" />
 </p>
 <p>
-...abc 
+Back in Wireshark, filter for DNS traffic only, from your Windows VM within a command line, use nslookup to see what google.com and disney.com’s IP addresses are
 </p>
 <br />
 
