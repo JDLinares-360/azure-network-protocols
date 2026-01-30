@@ -65,6 +65,8 @@ Step 3: Within Wireshark, via searchbar, filter for ICMP traffic only
 
 <p>
 Step 4: Retrieve the private IP address of the Ubuntu VM (linux-vm) and attempt to ping it from within the Windows 10 VM by utilizing PowerShell > ping command + Private IP address. Observe ping requests and replies within WireShark.
+
+NOTE: Pinging an IP address checks whether a device can be reached on a network and how fast it responds. It works by sending small test messages and timing the replies, helping identify connection problems like delays, packet loss, or whether the issue is with your computer, the network, or a remote server.
 </p>
 <br />
 
